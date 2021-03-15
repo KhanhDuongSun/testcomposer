@@ -1,8 +1,8 @@
 {
     "name": "duonghk-0127/firsthello",
     "description": "the first composer package",
-    "type": "php",
-    "license": "aaa",
+    "type": "project",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "duong",
